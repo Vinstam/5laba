@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kerbylab4",
+  "private_key_id": "a56e4c1986a3717e8c17c757e11101d16e92b7ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBvKio/ySD62kv\nvRmG02f+qipYjsz3+Vx5znc3zwl3ElI+ZZur1G5+TK5LQ/Prysvz253kGop6LIoB\npEce5E5MFQ0VSHM6NH2QlSsnA2pY17GVhNgI53Z0YFqVpLaQWVNCWWpQaVGUT9rn\nUKOFQn6fvz1K01VyewuGRQrL7SQGdsVn9ROiS00oQTDPnps0UUrT6HZsLb6ZWXrr\nFMVWonC6r+l83Uk2ayt3volqs/bTw9gkhs49G3yGLHMkVd54xTN+Ze2kKeqnDFdQ\ni6z/z/cWmKueXe/n/nWNRqrQBpJKpoJH7P7tm/HaTxd2jgaHWNZ4fP/8p5lDkjsN\nXeirlIfNAgMBAAECggEAD00vbwWTzz2GdchJiK4QKSYsfl5s+ZWULw9WYtiIfAM8\n7q5cxgywW2utWnF4BaK4oBPeRm1YNupnTgDjwyCvacVB3sagSd5qdRhrAO5SoHNi\nFG1FGNLwi/mDk2J1Lt/Mj9F7GvXD2o3CEYH7daN5AnSldSWi5TirAi8CzsogjcgB\ncyhsBa+SSUy5XuZ9nqodso6us8zXxRM0gEv6esoxLaYrt6GL9HUPZ+xYsivtuFnc\nNpcBPUJ75ymf6OUoY3skUF7cSZyY+UFjgn0E7Z6NsvadqksSf4KUdXBcUUyEKrvI\nRhAOAqa0hlwm51GdUV7d+MoPMU1qpyuMPkhThvAE2wKBgQDtRfHHmzn4vgu56II6\niQnT1JRiOjk8OaJvWYmA7JySbnfrzWILpNVMPRvtS5ux5AQOAzTyrZRHQtScWldE\nu7JTib1pgDv6OzZ9ltNh7DFxNTy6IHJi90iySNkMbVH3x/fop/fo2tMl1AvVWAnb\n8mmTM5pHEHqPYf00gHFXUc/fIwKBgQDRBxK6H2/1r31u4FNXH9SZNp6bTjWmRpu9\nrEbammiWRVOtYFpY2CLAA5OaE4pS0frlcxp1EEE+EUY6hN29D5E3PT6zz3pxi6B2\n7H6puRztv5Sj0s1ViR4WKDSGHE2C3Z7MT1VvGEer3ZuzLBEUkNIMqQst7/7IFxoF\nXRhlgHdkTwKBgQCJFagjEuPjeql7t4HGH/a1lFRGjC0VRpc6jhiLjCjJ0Vknu3my\nEIHLkmLYLp69oGdXUTL+IptQsKP10Zwp8eeNrD7q/VOptxw8Yy+tm7DVH1T+lFCC\nLSyrFLuSGncJGVd569GnjwX/DQvpLvxDP0MP8PhppnOo84w/ERZqxLG80QKBgGsz\ncHRKKTZckTzrCXL2XSdSrtdBrhwfvEHzd8cnR5pB5d9WOh+0gWXur6Vmfhtpm35P\noPMGqh815smeWMZclII7A8xeDRLspBg5w+AxkteP2KCIPUyv7OE6L23UWCBUnttz\nmIJIdoF7Px4N7JiaiU965sPhgM6Hoo27qAZuc0zbAoGAKc79cIblY2CNmpjUZjlc\n5HmFdb7oG6brvPnnMXOEshsy/R08jBtxBuozI6hQ0PuG5siOpz8vrOAIYeZVkqth\njpw19Gf/PGWSCCK6i2uCSczUtH/MkH3vc2TE9GlWZfOU62aizISV1ryEZL0npU0C\nJsicOjapIzOvfQP4wpbdLIw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kerbytab@kerbylab4.iam.gserviceaccount.com",
+  "client_id": "108779354208534261092",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kerbytab%40kerbylab4.iam.gserviceaccount.com"
+}
